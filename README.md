@@ -1,2 +1,6 @@
 # codegenerator
-ä»£ç ç”Ÿæˆå™¨
+´úÂëÉú³ÉÆ÷¡¢×îÔ­Ê¼£¬×îÒ×ÓÃµÄÄ£°å£¬¿É¸ù¾ÝÒµÎñÐèÇó¶¨ÖÆ´úÂëÉú³ÉÄ£¿é¡£
+
+±¾Ê¾Àý²ÉÓÃeasyuiÎªÇ°¶ËÉú³ÉÄ£°å£¬ÎªÁ½Ì×Éú³É½çÃæ£¬Ò»ÖÖÎªÆÕÍ¨µÄCRUD²Ù×÷½çÃæ£¬Ò»ÖÖÎª´øÊ÷ÐÍµÄCRUD²Ù×÷½çÃæ
+
+
